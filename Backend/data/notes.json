@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "id": "note-2",
+    "title": "CEH příprava",
+    "description": "Procvičit kapitolu Enumeration.",
+    "date": "2026-06-15",
+    "priority": "Střední",
+    "status": "Hotovo",
+    "categoryId": "1505c610-9972-4b7d-bc8d-464e4661b231"
+  },
+  {
+    "id": "ad585e91-cd12-45e2-bb61-f17f471d73f1",
+    "title": "Test",
+    "description": "Test",
+    "date": "2026-05-03",
+    "priority": "Střední",
+    "status": "Aktivní",
+    "categoryId": "cat-2"
+  },
+  {
+    "id": "be8e6721-8f4b-4bd5-851d-d2ba9ef76c6f",
+    "title": "ff",
+    "description": "",
+    "date": "2026-05-23",
+    "priority": "Střední",
+    "status": "Hotovo",
+    "categoryId": "cat-2"
+  }
+]
